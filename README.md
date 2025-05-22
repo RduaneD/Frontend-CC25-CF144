@@ -62,7 +62,7 @@ Jika kamu ingin mengunggah seluruh isi folder proyek ke GitHub untuk pertama kal
 
 ```bash
 git init
-git remote add origin https://github.com/USERNAME/NAMA-REPO.git
+git remote add origin https://github.com/RduaneD/Frontend-CC25-CF144.git
 git add .
 git commit -m "feat: upload awal proyek HydroSmart"
 git branch -M main     # opsional, jika belum di 'main'
